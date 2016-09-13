@@ -1,4 +1,5 @@
 #PN532 evaluation board for arducleo
+[![License](https://img.shields.io/badge/license-MIT-blue.svg?style=flat)](https://github.com/dotnfc/eva_pn532/blob/master/LICENSE)
 
 PN532 is widely used nfc chip. this evaluation board is suitable for mbed board, such as arducleo, st-nucleo; or the arduino uno board.
 
